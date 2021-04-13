@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+*test*
+.autocalendar/
+credentials.cfg
+.idea/
