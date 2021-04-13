@@ -1,8 +1,8 @@
 import pathlib
 import pickle
 
-import requests
 import bs4
+import requests
 
 from autocalendar.consts import CACHE_DIR
 
